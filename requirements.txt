@@ -1,1 +1,2 @@
-pip freeze > requirements.txt
+# requirements.txt
+# netrecon uses only the Python standard library.
