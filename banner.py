@@ -29,5 +29,4 @@ def grab_banner(target, port, timeout=1.0, host=None):
         for line in text.splitlines():
             if line.lower().startswith("server:"):
                 return line.split(":", 1)[1].strip()
- 
-return text.splitlines()[0]
+    return text.splitlines()[0]
