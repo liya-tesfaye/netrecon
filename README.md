@@ -1,3 +1,4 @@
+![tests](https://github.com/liya-tesfaye/netrecon/actions/workflows/tests.yml/badge.svg)
 #  netrecon
 
 A command-line network reconnaissance tool that performs TCP port scanning, banner grabbing, and structured report generation. It was built from scratch in Python using only the standard library.
