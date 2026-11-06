@@ -29,7 +29,7 @@ netrecon/
 ## Installation
 
 ```bash
-git clone https://github.com/liya_tesfaye/netrecon.git
+git clone https://github.com/liya-tesfaye/netrecon.git
 cd netrecon
 ```
 
@@ -101,4 +101,4 @@ Only use this tool on systems you own or have explicit permission to scan. Unaut
 
 ## Author
 
-**Liya Tesfaye** — Aspiring Security Engineer
+**Liya Tesfaye** 
